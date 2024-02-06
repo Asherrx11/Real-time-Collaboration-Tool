@@ -1,3 +1,6 @@
+A simple real time collaborative tool. This project serves as the basis for a sophisticated real time collaborative tool.
+Foe now, users can join/create room and share their drawings in real time. It also comes with a chat functionality. Still a lot to be done in styling and more features. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
